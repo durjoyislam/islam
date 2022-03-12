@@ -1,0 +1,136 @@
+/* global css */
+.global-heading{
+    letter-spacing: 5px;
+
+}
+.underline{
+    border: 2px solid #00000059;
+    width: 70px;
+    margin: auto;
+}
+header{
+    background-color: #87509c;
+    
+}
+nav{
+    background-color:transparent ;
+}
+#home{
+    padding: 0;
+}
+#home button{
+    background-color: #eb7d4b;
+    box-shadow: 0px 0px 5px black;
+}
+#home button:hover{
+    background-color: cadetblue;
+}
+nav ul li a{
+    color: white!important;
+    border-radius: 10px;
+}
+nav ul li a:hover{
+    background-color: rgba(100, 155, 237, 0.877);
+    border-radius: 10px;
+    transition: 0.8ms;
+}
+/* about section */
+#about{
+    background-color:#17c2a4 ;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+/* team section */
+#team{
+    background-color: #e7f1f8;
+    padding-top: 100px;
+    padding-bottom: 5px;
+    
+}
+/* skill section */
+#skill{
+    background-color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+/* portfolio section */
+#portfolio{
+    background-color: #ffdd99;
+    padding: 100px;
+}
+.btn1 a button{
+    background-color:#ebc985;
+}
+.portfolio-part4 button{
+    background-color: #64d6c2;
+    color: black;
+    border-radius: 20px;
+    border: 0;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.788);
+}
+/* testimonial section */
+#testimonial{
+    background-color: #d74680;
+    padding-bottom: 50px;
+}
+/* contact section */
+#contact{
+    background-color: #3c5499;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+    
+}
+.btn3 input{
+    background-color: #273a71; 
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px black;
+    margin-left: 280px;
+    
+}
+.btn4 input{
+    background-color: #273a71; 
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px black;
+    margin-right: 280px;
+
+}
+.contact-part2 input{
+    
+}
+.contact-part2 input::placeholder{
+    color: white;
+    text-align: left;
+    
+}
+
+.contact-part3 input{
+    background-color: #273a71;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px black;
+
+}
+.contact-part3 input::placeholder{
+    color: white;
+    text-align: left;
+}
+.contact-part4 button{
+    background-color: #30bae7;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px black;
+}
+
+/* footer section */
+#footer{
+    background-color: #273a71;
+    padding: 30px;
+    margin: 0;
+
+}
+h5{
+
+word-spacing: 60px;
+}
